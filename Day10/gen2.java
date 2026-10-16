@@ -17,7 +17,7 @@ class Pair<K, V> {
     }
 }
 
-public class gen2 {
+public class Gen2 {
     public static void main(String[] args) {
 
         Pair<Integer, String> p1 = new Pair<>(101, "Yash");
