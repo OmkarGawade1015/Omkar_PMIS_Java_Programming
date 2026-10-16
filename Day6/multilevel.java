@@ -19,7 +19,7 @@ class smartphone extends Dabbaphone{
 
 }
 
-public class multilevel{
+public class Multilevel{
     public static void main(String[] args) {
         smartphone samsingh = new smartphone();
         samsingh.makecall();
