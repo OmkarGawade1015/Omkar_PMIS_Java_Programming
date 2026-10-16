@@ -12,7 +12,7 @@ class manager extends employee {
     }
 }
 
-public class superkeyword {
+public class Superkeyword {
     public static void main(String[] args) {
         manager m = new manager();
         m.displaysalary();
