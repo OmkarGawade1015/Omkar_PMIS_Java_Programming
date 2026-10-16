@@ -9,9 +9,9 @@ class util{
     }
 }
 
-public class gen3 {
+public class Gen3 {
     public static  void main(String[] args){
-        util.printtwice("yash");
+        util.printtwice("omkar");
         // System.out.println(util.firstof("hii", "hello"));
     }
     
