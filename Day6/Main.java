@@ -32,7 +32,7 @@ class Manager extends Employee {
 
 public class Main {
     public static void main(String[] args) {
-        Manager m = new Manager("Yash", 50000, "IT");
+        Manager m = new Manager("Omkar", 50000, "IT");
         m.displayInfo();
     }
 }
