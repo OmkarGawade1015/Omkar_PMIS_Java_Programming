@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class wildcard {
+public class Wildcard {
 
     static double calculateSum(List<? extends Number> list) {
         double sum = 0;
